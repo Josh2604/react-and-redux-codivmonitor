@@ -1,6 +1,8 @@
 # React and Redux (COVID Dashboard)
 ##### Thanks to [NovelCOVID](https://corona.lmao.ninja/docs/#/) for providing the data about covid-19
 
+![covid-19-app](/static/cov-app.png)
+
 To use the application just run the following commands
 
 ```
